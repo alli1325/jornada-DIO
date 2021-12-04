@@ -1,0 +1,15 @@
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\bin\Debug\net6.0\ref\Primeiro.dll
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\Users\call_\source\repos\jornadaDecolaTech-DIO\1 - IDE Instalação e Configuração (Visual Studio)\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
